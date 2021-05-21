@@ -1,0 +1,7 @@
+A=int(input("enter value") 
+B=int(input("enter value") 
+C=int(input("enter value") 
+Total=a+b+c
+Avg=total/3
+Print("sum is %d",total) 
+Print("average is %2f",avg) 

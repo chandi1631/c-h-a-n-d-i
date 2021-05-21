@@ -1,0 +1,14 @@
+a=int(input("enter 1st number") 
+b=int(input("enter 2nd number") 
+c=int(input("enter 3rd number") 
+Sum=a+b+c
+Printf("the addition is", sum) 
+Avg=sum/3
+Printf("the average is", avg) 
+
+#output
+#enter 1st number 3
+#enter 2nd number 4
+#enter 3rd number 5
+# addition is 12
+# average is 4
